@@ -11,3 +11,8 @@ import random
 random_number = random.randint(1, 100)
 
 print(random_number)
+
+### Concepts Learned
+random module
+randint() function
+Importing modules
